@@ -4,11 +4,6 @@
   padding: 0;
 }
 
-img {
-  max-width: 50%;
-  float: left;
-}
-
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
@@ -45,5 +40,15 @@ body {
 }
 a {
   text-decoration: none;
-  color: #ddd;
+  font-size: 0.7rem;
+}
+p {
+  font-size: 0.8rem;
+}
+h3 {
+  padding-top: 10px;
+}
+h1 {
+  color: rgb(239, 64, 64);
+  margin-bottom: 50px;
 }
